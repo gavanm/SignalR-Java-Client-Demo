@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>ChatHubVuGenJava</ScriptName>
+  <Protocol>Java Vuser</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.java" Filter="2" />
+    <FileEntry Name="Actions.java" Filter="2" />
+    <FileEntry Name="vuser_end.java" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="ChatHubVuGenJava.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="ChatHubVuGenJava.prm" Filter="2" />
+    <FileEntry Name="Name.dat" Filter="2" />
+    <FileEntry Name="Java-WebSocket-1.3.7.jar" Filter="2" />
+    <FileEntry Name="Quote.dat" Filter="2" />
+    <FileEntry Name="gson-2.7.jar" Filter="2" />
+    <FileEntry Name="Quote - Copy.dat" Filter="2" />
+    <FileEntry Name="signalr4j-2.0.4.jar" Filter="2" />
+    <FileEntry Name="165690910440.idx" Filter="1" />
+    <FileEntry Name="16569091044_hS9.309.idx" Filter="1" />
+    <FileEntry Name="16569091044_j5x.51.idx" Filter="1" />
+    <FileEntry Name="16569091044_Kfg.405.idx" Filter="1" />
+    <FileEntry Name="16569091044_NGw.51.idx" Filter="1" />
+    <FileEntry Name="16569091044_nRB.209.idx" Filter="1" />
+    <FileEntry Name="16569091044_v0V.249.idx" Filter="1" />
+    <FileEntry Name="16569091044_xbs.653.idx" Filter="1" />
+    <FileEntry Name="16569091044_YAR.215.idx" Filter="1" />
+    <FileEntry Name="16569091044_YAR.295.idx" Filter="1" />
+    <FileEntry Name="16569091044_YAR.403.idx" Filter="1" />
+    <FileEntry Name="16569091044_YAR.473.idx" Filter="1" />
+    <FileEntry Name="16569091044_YAR.635.idx" Filter="1" />
+    <FileEntry Name="16569091044_YAR.807.idx" Filter="1" />
+    <FileEntry Name="207155879440.idx" Filter="1" />
+    <FileEntry Name="Action.c" Filter="1" />
+    <FileEntry Name="Actions$1.class" Filter="1" />
+    <FileEntry Name="Actions.class" Filter="1" />
+    <FileEntry Name="Actions.java.bak" Filter="1" />
+    <FileEntry Name="Actions.java.sed" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="ChatHubVuGenJava.prm.bak" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="stdOutErr.txt" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="vuser_end.c" Filter="1" />
+    <FileEntry Name="vuser_init.c" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

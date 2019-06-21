@@ -1,0 +1,633 @@
+Quote
+All the simple programs have been written and all the good names taken.
+All programmers are playwrights and all computers are lousy actors.
+Adding manpower to a late software project makes it later. Frederick Brooks
+A bug in the code is worth two in the documentation.
+A fault tolerant system must report the faults even as it tolerates them.
+A hacker does for love what others would not do for money. Laura Creighton
+A low level language is one whose programs require attention to the irrelevant.
+A paperless office has about as much chance as a paperless bathroom.
+A successful tool is used to do something undreamed of by its author. Samuel Johnson
+Abstraction is achieved by data hiding and enforced by encapsulation.
+Actual usability is inversely proportionate to apparent user-friendliness.
+All you need to know is the user interface. J. Redford
+An algorithm must be seen to be believed. Donald Knuth
+An infinite loop is OK as long as you don't get stuck in it.
+An operating system without virtual memory is an OS without virtue.
+Any programming language is at its best before it is implemented and used.
+Avoid GOTOs completely if you can keep the program readable.
+Avoid the Fortran arithmetic IF (or better yet just avoid Fortran).
+Avoid unnecessary branches.
+Bad style destroys an otherwise superb program.
+Bad tools result in bad software. J.L. Marsh
+BASIC is to computer programming as QWERTY is to typing. Seymour Papert
+Be careful when a loop exits to the same place from side and bottom.
+Choose variable names that will not be confused.
+Computers are unreliable but humans are even more unreliable. Gilb
+Computers talk to each other worse than their designers do.
+Computers... are not designed as we are for ambiguity. Thomas
+Controlling complexity is the essence of computer programming. Brian Kernighan
+Digital circuits are made from analog parts.
+Disk is cheap but storage is expensive.
+Don't comment or patch bad code; rewrite it.
+Don't compare floating point numbers solely for equality.
+Don't diddle code to make it faster; find a better algorithm.
+Don't document the program; program the document.
+Don't stop at one bug.
+Every bug you find is the last one.
+Every good work of software starts by scratching a developer's personal itch.
+Every program is either trivial or it contains at least one bug.
+Everything should be transparent to the user.
+Expert systems are built to embody the knowledge of human experts. Rich Kulawiec
+Favor object composition over class inheritance.
+Garbage in garbage out.
+Given enough eyeballs all bugs are shallow. Eric Raymond
+Good programmers know what to write. Great ones know what to rewrite. Eric Raymond
+I do not fear computers. I fear the lack of them. Isaac Asimov
+I suppose when it gets to that point we shan't know how it does it. Alan Turing
+If the code and the comments disagree then both are probably wrong. Schryer
+If you have a procedure with 10 parameters you probably missed some.
+In the long run every program becomes rococco and then rubble. Alan Perlis
+It is easier to change the specification to fit the program than vice versa.
+It is easier to write an incorrect program than understand a correct one.
+It wasn't as easy to get programs right as we had thought. Maurice Wilkes 1949
+It's easy to get lost in the details of an incorrect implementation. Tom von Alten
+Know Thy User.
+Let the machine do the dirty work. Elements of Programming Style
+Machine independent code isn't.
+Make input easy to proofread.
+Make it right before you make it faster.
+Make sure all variables are initialized before use.
+Make sure comments and code agree.
+Make sure your code "does nothing" gracefully.
+Never put off till run-time what you can do at compile-time. David Gries
+Never test for an error condition you don't know how to handle. Steinbach
+Never underestimate the bandwidth of a station wagon full of tapes. Jackson
+Never write software that anthropomorphizes the machine.
+Never write software that patronizes the user.
+New technology becomes salable three years before it becomes usable.
+New technology becomes usable three years before its users become competent.
+No extensible language will be universal. T. Cheatham
+On the Web understanding the medium matters more than controlling the layout.
+Performance is easier to add than clarity.
+Plan the system for change. Frederick Brooks
+Program to an interface not an implementation.
+Replace repetitive expressions by calls to a common function.
+Smart data structures and dumb code works a lot better than vice versa.
+Software is best understood as a branch of movie making. Ted Nelson
+Software is mind work. Having the right frame of mind is essential.
+The best packed information most resembles random noise.
+The computer is the Proteus of machines. Seymour Papert
+The computing field is always in need of new cliches. Alan Perlis
+The less time planning the more time programming.
+The Macintosh was the first personal computer good enough to be criticized.
+The number of UNIX installations has grown to 10 with more expected. (672)
+The purpose of computing is insight not numbers. Richard Hamming
+The wise person writes bomb-proof code.
+There are always at least two ways to program the same thing.
+There are never any bugs you haven't found yet.
+There can never be a computer language in which you cannot write a bad program.
+There is no problem that when programmed just right isn't more complicated.
+To understand a program you must become both the machine and the program.
+Try not to let implementation details sneak into design documents.
+Undetectable errors are infinite; detectable errors by definition are finite.
+UNIX is many things to many people but it has never been everything to anybody.
+Use free-form input where possible.
+Use GOTOs only to implement a fundamental structure.
+Use IF...ELSE IF...ELSE IF...ELSE... to implement multi-way branches.
+Use text for text and images for images. Paul Martz
+Using a free internet service you're not the customer you're the product.
+Watch out for off-by-one errors.
+When a program is being tested it is too late to make design changes.
+When we write programs that "learn" it turns out we do and they don't.
+You don't have to know how the computer works just how to work the computer.
+A gift of flower will soon be made to you.
+A nickel ain't worth a dime anymore. Yogi Berra
+A visit to a fresh place will bring strange work.
+A visit to a strange place will bring fresh work.
+All the troubles you have will pass away very quickly.
+Among the lucky you are the chosen one.
+An actor without a writer is a waiter. RJ Colleary
+Baseball is 90 percent mental. The other half is physical. Yogi Berra
+Courage is your greatest present need.
+Divide your time evenly to keep others happy.
+Do not overtax your powers.
+Don't despair; your ideal lover is waiting for you around the corner.
+Executive ability is prominent in your make-up.
+Exercise caution in your daily affairs.
+Flee at once all is discovered.
+Generosity and perfection are your everlasting goals.
+Good news from afar will bring you a welcome visitor.
+His heart was yours from the first moment that you met.
+Hold tight to your dreams.
+I always thought that record would stand until it was broken. Yogi Berra
+I didn't really say everything I said. Yogi Berra
+I want to thank everyone for making this night necessary. Yogi Berra
+I'm not buying my kids an encyclopedia. Let them walk to school like I did. Yogi Berra
+If the people don't want to come to the ballpark nobody's going to stop them. Yogi Berra
+If you don't know where you are going you might wind up someplace else. Yogi Berra
+It gets late early out here. Yogi Berra
+Life is to you a dashing and bold adventure.
+Long life is in store for you.
+Love is in the offing. Be affectionate to one who adores you.
+Never answer an anonymous letter. Yogi Berra
+Old acquaintance will soon be remembered.
+Retribution will be yours.
+Show your affection which will probably meet with pleasant response.
+Show your appreciation for your lover by surprising himher with a small gift.
+Someone close to you is taking advantage of your trust.
+Someone is enthusiastic about your work.
+Someone is speaking well of you.
+Stop searching forever. Happiness is just next to you.
+Take time in life to smell the rabbits eat the flowers and pet the cactus.
+That wasn't chicken. fictitious fortune cookie in an ad
+The future is bright in affairs of the heart.
+The lousy teams are good this year. Yogi Berra
+The luck that is ordained for you will be coveted by others.
+The only things that come out of meetings are people.
+The time is right to make new friends.
+There will be big changes for you but you will be happy.
+Torture numbers and they will confess to anything. Gregg Easterbrook
+Value useful qualities in one who loves you.
+Why buy good luggage you only use it when you travel. Yogi Berra
+You are capable of planning your future.
+You are going to have a new love affair.
+You have a deep appreciation of the arts and music.
+You have a deep interest in all that is artistic.
+You have an ability to sense and know higher truth.
+You have an ambitious nature and might make a name for yourself.
+You like to form new friendships and make new acquaintances.
+You look on the sunny side of everything and make your optimism come true.
+You love peace.
+You need not worry about your future.
+You talk health happiness and prosperity to every person you meet.
+You will always have good luck in your personal affairs.
+You will attract cultured and artistic people to your home.
+You will be advanced socially without any special effort on your part.
+You will be called to a post requiring ability in handling groups of people.
+You will be recognized and honored as a community leader.
+You will be singled out for promotion in your work.
+You will be successful in love.
+You will be traveling and coming into a fortune.
+You will get what you deserve.
+You will have a long-term stimulation relative to business.
+You will have domestic happiness and faithful friends.
+You will have good luck and overcome many hardships.
+You will have long and healthy life.
+You will hear good news from one you thought unfriendly to you.
+You will reach the highest possible point in your business or profession.
+Your aims are high and you are capable of much.
+Your business will go through a period of considerable expansion.
+Your depth of comprehension might tend to make you lax in worldly ways.
+Your love life will be happy and harmonious.
+Your mode of life will be changed for the better because of new developments.
+Your present plans will be successful.
+Your talents will be recognized and suitably rewarded.
+Whatever else you get get insight. Solomon
+Whatever has been well said by anyone is my property. Seneca
+Whatever is funny is subversive. George Orwell
+Whatever it is I fear Greeks even when they bring gifts. Virgil
+Whatever man has done man may do. C. Reade
+Whatever occurs from love is always beyond good and evil. Friedrich Nietzsche
+Whatever the game is play it as a professional. Peter Medawar
+Whatever you can do or dream you can begin it. Johann von Goethe
+Whatever you do will be insignificant but it is very important that you do it.
+Whatever you want to do do it now. There are only so many tomorrows. Landon
+Whatsoever was the father of a disease an ill diet was the mother. Herbert
+When a couple starts keeping score there is no winning just degrees of losing.
+When a man says money can't do anything that settles it: He hasn't any. Howe
+When a man's house is on fire it's time to break off chess. James Fuller
+When a paradigm shifts everyone goes back to zero. Joel Barker
+When a thing is done advice comes too late. G. Delamothe
+When all men speak no man hears. James Kelly
+When all think alike then no one is listening. Walter Lippman
+When among apes one must play the ape.
+When an experience comes along you just note it and just let it go. Ram Dass
+When an expert stops learning he is no longer an expert.
+When angry count ten before you speak. If very angry a hundred. Jefferson
+When children stand quiet they have done some ill. George Herbert
+When cutting down trees remember to pause now and then to sharpen your axe.
+When does later become never?
+When elephants fight the grass loses.
+When everyone agrees with me I know I am wrong.
+When faith and hope fail try charity; it is love in action.
+When fortune knocks be sure to open the door. Boyer
+When fortune smiles embrace her.
+When God is invoked by the state it's all too easy for the state to become God.
+When guns are outlawed only outlaws will have guns. Art Denman
+When I get angry... I've made some kind of a law that's not true. Vikki Coit
+When I know who I am you and I are one. Hanuman
+When I rest I rust. Fritz Thyssen
+When ideas fail words come in very handy. Johann von Goethe
+When in doubt do as doubters do. John Taylor
+When in doubt follow your heart.
+When in doubt leave out the adjective.
+When in doubt take all the defaults.
+When injustice becomes law resistance becomes duty. Thomas Jefferson
+When it is dark enough you can see the stars. Ralph Emerson
+When leaders act contrary to conscience we must act contrary to leaders.
+When love and skill work together expect a masterpiece. John Ruskin
+When money talks there are few interruptions.
+When people are free to do as they please they usually imitate each other.
+When people are least sure they are most dogmatic. John Galbraith
+When people are stressed common sense goes out the window. Brian Seaward
+When people share their fears with you share your courage back.
+When pleasure remains does it remain a pleasure?
+When pointing out another's mistake always consider their feelings.
+When poverty comes in at the doors love leaps out at the windows.
+When sex is good it is only 2% of a marriage; but when it is bad it is 98%.
+When something of great importance is given to you it is always born humbly.
+When sorrow is asleep wake it not. MA Stoddart
+When success turns a person's head he is facing failure.
+When the belly is full the mind is among the maids.
+When the blind lead the blind they both fall over the cliff.
+When the candles are out all women are fair. Plutarch
+When the cat is away the mice will play.
+When the dust is clear one knows if he is riding a horse or an ass. Chinese
+When the gods wish to punish us they answer our prayers. Oscar Wilde
+When the going seems easy check that you're not going downhill.
+When the grid is at capacity there is little margin for error.
+When the mind is denied the sting of losing it never figures out how to win. Jonah Lehrer
+When the need arises anything within reach becomes a hammer.
+When the only choices are win or lose everyone loses. Limon
+When the situation is hopeless there's nothing to worry about. Edward Abbey
+When the student is ready the teacher appears. Hindu proverb
+When the toes are hot the hiking boots are shot.
+When the wind is great bow before it; when the wind is heavy yield to it.
+When two friends have a common purse one sings and the other weeps. Mapletoft
+When two men in a business always agree one of them is unnecessary. Wrigley
+When up to your ass in alligators you forget your goal was to drain the swamp.
+When war begins then hell opens. Torriano
+When war is looked upon as vulgar it will cease to be popular. Oscar Wilde
+When we are flat on our backs there is no way to look but up. Roger Babson
+When we begin the journey of the self it seems to require a stage of aloneness.
+When we have gold we are in fear; when we have none we are in danger. Draxe
+When we have not what we like we must like what we have. Bussy-Rabutin
+When we succeed in being the only speaker there is no speaker at all. Carse
+When we take the secure path we sign on for the lesson there is no such thing.
+When wine is in wit is out. Hall
+When you ain't got nothin' you got nothin' to lose.
+When you are at Rome live in the Roman style. St. Ambrose
+When you are average you are as close to the bottom as to the top.
+When you are in a hole stop digging.
+When you are in command command. Admiral Nimitz
+When you are not going within come from within as you deal with the world.
+When you are ready to face life alone you are ready for marriage. Fisher
+When you are tribal you will be religious but you won't be spiritual. Carolyn Myss
+When you change the way you look at things the things you look at change. Wayne Dyer
+When you dig another out of trouble you have a place to bury your own.
+When you don't talk things get awfully quiet. Martha Hartly
+When you finally become a perfect parent you are unemployed. Barbara Coloroso
+When you find yourself walking through hell keep walking! Winston Churchill
+When you get angry your IQ drops 20 points. Douglas Baskins
+When you get what you want you don't want it as much.
+When you go out to buy don't show your silver.
+When you have a fight with your conscience and get licked you win. Nuggets
+When you have no agenda with power all of it comes to you. Carolyn Myss
+When you have seen one nuclear war you have seen them all.
+When you have to kill a man it costs nothing to be polite. Winston Churchill
+When you invest your energy in being a victim you say to God "You screwed up."
+When you invoke heaven heaven comes. Carolyn Myss
+When you judge another you do not define them you define yourself. Wayne Dyer
+When you kill time you murder success.
+When you look into an abyss the abyss also looks into you. Friedrich Nietzsche
+When you lose don't lose the lesson. H. Jackson Brown
+When you make a pact with the devil word it very carefully.
+When you mean no say it in a way that's not ambiguous. H. Jackson Brown
+When you need professional advice get it from professionals. Brown
+When you play for more than you can afford to lose then you know the game.
+When you quit working retire TO something not FROM something.
+When you shoot an arrow of truth dip its point in honey. Arabian proverb
+When you starve with a tiger the tiger starves last.
+When you talk to yourself or about yourself watch your language! Will Limon
+When you try to bring your mind to one point at first it speeds up incredibly.
+When you turn honest it limits your choices. Carolyn Myss
+When you want something all the universe conspires to help you achieve it.
+When you're tired small problems seem big and big problems are insurmountable.
+When you've won the game stop playing. William Bernstein
+When your work speaks for itself don't interrupt. Henry Kaiser
+Whenever people agree with me I always feel I must be wrong. Oscar Wilde
+Whenever you possibly can do good to those who need it. Solomon
+Where are you at? Where are you going? What must you do to get there?
+Where drums beat laws are silent.
+Where ignorance is bliss it is foolish to borrow your neighbor's newspaper.
+Where love is not there is hatred. Thomas Draxe
+Where love is there is faith.
+Where on Earth is the early warning system for man-made disasters? Goodman
+Where pain predominates agony can be a valued teacher. Frank Herbert
+Where people live there will be tragedy. Tom Stybr
+Where there is much light there is also much shadow. Johann von Goethe
+Where there is whispering there is lying.
+Where there's a will there's a way.
+Where there's smoke there's fire.
+Where you stand depends on where you sit. Rufus Miles
+Whereof one cannot speak thereof one must be silent. Wittgenstein
+Wherever a man exercises authority there is a man who resists authority!
+Wherever there is a secret there must be something wrong.
+Wherever they burn books they will eventually burn people. H. Heine
+Whether you think you can or you can't you're right. Henry Ford
+While there is life there is hope. Publius Afer
+While we are sleeping two-thirds of the world is plotting to do us in. Dean Rusk
+Who chooses to compete with another can also choose to play with another.
+Who does not trust enough will not be trusted. Lao Tsu
+Who goeth a-borrowing goeth a-sorrowing. Thomas Tusser
+Who has not a good tongue ought to have good hands. John Ray
+Who is more busy than he that has least to do? Thomas Draxe
+Who is worse shod than the shoemaker's wife?
+Who knows most speaks least. Torriano
+Who knows what evil lurks in the minds of men? The Shadow knows.
+Who knows what he knows and what he doesn't know is one who knows. Confucius
+Who likes not his business his business likes not him. T. Wright
+Who lives by hope will die by hunger.
+Who never wins can rarely lose who never climbs as rarely falls. Whittier
+Who steals my purse steals trash. William Shakespeare
+Who swims in sin shall sink in sorrow.
+Who to himself is law no law doth need offends no law and is a king indeed.
+Whoever MUST play cannot PLAY. James Carse
+Whoever rows the boat doesn't have time to rock it.
+Whoever would lie usefully should lie seldom.
+Whole civilizations rise from stories and can rise from nothing else. Carse
+Whom we love best to them we can say least.
+Why are we all put here to suffer and die?
+Why attack God? He might be as miserable as we are.
+Why be a man when you can be a success? Bertold Brecht
+Why do I live in the desert? Because the desert is the locus Dei. Edward Abbey
+Why do we study poverty instead of wealth?
+Why doesn't everybody leave everybody else the hell alone? Jimmy Durante
+Why I oppose the nuclear arms race: I prefer the human race. Edward Abbey
+Why look for more knowledge when you do not pay attention to what you know?
+Why look here for the joke? It is all around us.
+Why not go out on a limb? Isn't that where the fruit is?
+Why should a rich man steal? John Ray
+Why should ANYTHING exist? NOTHING would be tidier. Edward Abbey
+Wicked people cannot sleep unless they have done something wrong. Solomon
+Wilderness begins in the human mind. Edward Abbey
+Wilderness... is the only thing left that is worth saving. Edward Abbey
+Will is no skill.
+Win without boasting and lose without excuse.
+Winners never quit and quitters never win.
+Winners outrun defeat by not stopping; losers give in to defeat by not starting.
+Wisdom consists of the anticipation of consequences. Norman Cousins
+Wisdom is experience assimilated.
+Wisdom is knowing what to do next.
+Wisdom is knowing what to do with what you know. J. Winter Smith
+Wisdom is long violence is short. Carl van Doren
+Wisdom is ofttimes nearer when we stoop than when we soar. William Wordsworth
+Wisdom is rarely found on the best-seller list.
+Wisdom is to live in harmony with the world at the moment it is. Ram Dass
+Wisdom is what's left after we smarten up.
+Wise men change their minds; fools never do.
+Wise men have their mouth in their heart; fools have their heart in their mouth.
+Wise men learn by other men's mistakes; fools by their own. Plautus
+Wise men make proverbs and fools repeat them. Palmer
+Wise men propose and fools determine.
+Wise men see more from the bottoms of wells than fools see from mountain tops.
+Wise people learn when they can. Fools learn when they must. Wellington
+Wish in one hand and spit in the other see which one gets full first.
+Wishful thinking is far less likely to produce results than direct action.
+Wishing without work is like fishing without bait. Frank Tyger
+Wit has truth in it. Wisecracking is simply calisthenics with words.
+Wit is the only wall between us and the dark.
+With clothes the new are best; with friends the old are best.
+With enough qualifiers everything is special. Alan Silverstein
+With just enough of learning to misquote. Byron
+With stupidity the gods themselves struggle in vain. von Schiller
+With the foolish we should play the fool. Menander
+With what fortitude we bear the suffering of others. Thomas McKeown
+Within half a percent pi seconds is a nanocentury. Tom Duff
+Without adventure civilization is in full decay. Alfred Whitehead
+Without execution vision is just another word for hallucination. Mark Hurd
+Without fear there is no courage. Jeffrey Smith
+Without fools there would be no wisdom.
+Without love intelligence is dangerous; without intelligence love is not enough.
+Without music life would be a mistake. Friedrich Nietzsche
+Without wood a fire goes out; without gossip quarreling stops. Solomon
+Women are wiser than men because they know less and understand more. Stephens
+Women blink nearly twice as much as men.
+Women nod acknowledgment; men nod agreement. Lillian Roybal-Rose
+Wonder is the daughter of ignorance.
+Wonders will never cease.
+Words and feathers the wind carries away.
+Words are but wind.
+Words are only painted fire; a book is the fire itself. Mark Twain
+Words are the least reliable purveyor of Truth. Conversations with God
+Words are the voice of the heart.
+Words are of course the most powerful drug used by mankind. Kipling
+Words bind men.
+Words have a longer life than deeds. Pindar
+Words may pass but blows fall heavy. John Ray
+Words must be weighed not counted.
+Work expands to fill the time available for its completion. Parkinson
+Work is a form of nervousness. Don Herold
+Work is love made visible. Kalil Gibran
+Work is the worst thing you can do for your health. Howard Brubaker
+Work like you don't need the money; love like you've never been hurt.
+World War IV will be fought with sticks and stones. Albert Einstein
+Worrying is the most natural and spontaneous of all human functions. Thomas
+Worth seeing? Yes but not worth going to see.
+Would that my hand were as swift as my tongue. Alfieri
+Would you rather be right or would you rather be happy? Tom Magliozzi
+Wrinkles should merely indicate where smiles have been. Mark Twain
+Writing about music is like dancing about architecture.
+Wrong has no warranty.
+Wrong laws make short governance. Harding
+Wrong never comes right.
+Years know more than books. George Herbert
+Yes I can summon my creativity. Madonna
+You always find what you are looking for in the last place you look.
+You are a creator; you create with your every thought. Esther Hicks
+You are a wish to be here wishing yourself. Philip Whalen
+You are almost as happy as you think you are.
+You are an energetic being long before you are a physical being. Carolyn Myss
+You are becoming more simultaneous with God than linear with humanity. Carolyn Myss
+You are just a visitor to the history factory. Tony Snow
+You are never too old to become younger. Mae West
+You are not original if your peers agree with what you are doing. Heimlich
+You are not paid enough to worry about your job.
+You are only here for a short visit. So be sure to stop and smell the flowers.
+You are only responsible for the effort not the outcome.
+You are taking yourself far too seriously.
+You are terrified of how truth can change your life. Carolyn Myss
+You are the only authority on what is best for you. Hugh Prather
+You are what you eat. Adelle Davis
+You become more and more like a river. Ram Dass
+You can "get" knowledge but you can only BE wise. Ram Dass
+You can always find what you are not looking for.
+You can always pick up your needle and move to another groove. Timothy Leary
+You can always tell luck from ability by its duration.
+You can be sincere and still be wrong. Walter Lippmann
+You can be young without money but you can't be old without it. Tennessee Williams
+You can bear anything if it isn't your own fault. Katharine Gerould
+You can do anything you want but not everything you want.
+You can easily play a joke on a man who likes to argue: Agree with him. Howe
+You can fix a bad page but you can't fix a blank page. anonymous
+You can fool too many of the people too much of the time. James Thurber
+You can lead a boy to college but you cannot make him think. Elbert Hubbard
+You can lead a horse to water but you cannot make it drink.
+You can live outside the law but you must be honest.
+You can make it foolproof but you can't make it damnfoolproof. Naeser
+You can make it illegal but you can't make it unpopular.
+You can move the world with an idea but you have to think of it first.
+You can neither win nor lose if you don't run the race. David Bowie
+You can never do just one thing. Hardin
+You can never get enough of what you don't really want. Huston Smith
+You can never run away. Not ever. The only way out is in. Junot Diaz
+You can no more win a war than you can win an earthquake. Jeanette Rankin
+You can only improve on saying nothing by saying nothing often. Frank Tyger
+You can own a dog but you can only feed a cat.
+You can send your relationship to an early grave with a series of little digs.
+You can shear a sheep many times but you can only skin it once.
+You can tell the ideas of a nation by its advertisements. George Douglas
+You can't cross a chasm in two small jumps. David Lord George
+You can't cross the sea merely by staring at the water. Rabindranath Tagore
+You can't depend on the man who made the mess to clean it up. Richard Nixon
+You can't depend on your eyes when your imagination is out of focus. Mark Twain
+You can't erase a dream you can only wake me up. Peter Frampton
+You can't fall off the floor. Paul
+You can't fool heaven. Carolyn Myss
+You can't get to the light without going through the darkness. Carolyn Myss
+You can't have a better tomorrow when you are mostly thinking of yesterday.
+You can't have other people do your pushups for you. Jack Canfield
+You can't have your cake and eat it too.
+You can't help getting older but you don't have to get old. George Burns
+You can't love someone else unless you can first love yourself. Bruce Fisher
+You can't produce a baby in one month by impregnating nine women! Handel
+You can't simulate pain intellectually. You must live through it. MacKinnon
+You can't study the darkness by flooding it with light. Edward Abbey
+You can't take money with you when you die. Marryat
+You can't teach an old dog new tricks. Leng-Tzu
+You can't tell which way the train went by looking at the track.
+You can't tie two rocks together and expect them to float. Jesse Berst
+You cannot achieve the impossible without attempting the absurd.
+You cannot antagonize and influence at the same time.
+You cannot fool all of the people all the time. Abraham Lincoln
+You cannot give what you do not have.
+You cannot have a science without measurement. R. W. Hamming
+You cannot have trust without U.
+You cannot hold a man down without staying down with him. Booker Washington
+You cannot kill time without injuring eternity. Thoreau
+You cannot live a meaningless life; it's against the spiritual rules. Carolyn Myss
+You cannot lose what you never had.
+You cannot make your candle brighter by blowing out someone else's.
+You cannot play at chess if you are kindhearted.
+You cannot propel yourself forward by patting yourself on the back.
+You cannot reshape human nature without mutilating human beings. Edward Abbey
+You cannot see farther than others by standing on the feet of giants.
+You cannot see the city for the houses.
+You cannot see the forest for the trees.
+You cannot shake hands with a clenched fist. Indira Gandhi
+You cannot use your friends and have them too.
+You catch more bees with honey than vinegar.
+You do not know a bird from the shell out of which it hatched.
+You do not know your friend until you have quarreled with him. Thomas McKeown
+You don't drown by falling in water. You drown by staying there. R. Allen
+You don't get a second chance to make a first impression.
+You don't have to agree in order to understand. Lillian Roybal-Rose
+You don't have to know you just have to know who knows. John Taylor
+You don't know a person until you have divided an inheritance with him.
+You don't know what to ask for to make you happy because you've never had it.
+You don't manage people. You manage things. You lead people. Grace Hooper
+You don't need a weatherman to know which way the wind blows.
+You either learn as you go or don't. John Taylor
+You either set standards or you follow them.
+You get half of what you pay for.
+You get the most of what you need the least.
+You get what you don't pay for. John C. Bogle founder of Vanguard Group
+You get what you pay for. Leng-Tzu
+You have a strict obligation have no opinion about things you don't understand Morgan Housel
+You have no inalienable right to another's continued affection.
+You have no obligation to always love someone you once loved.
+You have no obligation to have an opinion about anything. Morgan Housel
+You have not converted a man because you have silenced him. John Morley
+You have the power to influence all with whom you come in contact.
+You have to play harder than you work to make working worthwhile.
+You have to at each level go beyond that level. Ram Dass
+You improvise! You adapt! You overcome! Clint Eastwood
+You just can't recreate that color blue on Earth I don't know why. Astronaut Scott Parazynski
+You keep your heart and mind separate because they have so much power. Carolyn Myss
+You know how to win a victory Hannibal but not how to use it. Maharbal
+You know not what is success or failure in the soul's reckoning. God?
+You know what is wrong with a lot more confidence than you know what is right. Nassim Taleb
+You live only once but in that life you must die a thousand different deaths.
+You might as well be you. Then you know if someone likes you they like you.
+You might not be responsible for falling down but you are for getting back up.
+You miss 100% of the shots you never take. Wayne Gretzky
+You must awake for your dreams to come true.
+You must learn the rules of the game then play better than anyone else. Albert Einstein
+You must look where it is not as well as where it is. Buckminster Fuller
+You must love honor and cherish yourself to do a good job with anyone else.
+You must pass failure on your way to success.
+You must transcend the rational mind; transcend the knower who knows. Dass
+You need chaos in your soul to give birth to a dancing star. Friedrich Nietzsche
+You need not sow weeds. Fuller
+You never "find" time but you can always "make" time.
+You never gain something but that you lose something. Henry Thoreau
+You never know what is enough until you know what is more than enough. Blake
+You never know what you can do till you try.
+You never lose but sometimes the clock runs out on you. Vince Lombardi
+You never own anything but that it owns you too. St. Exupery
+You only betray yourself when you ignore the inner dreams for your life.
+You only learn the value of a minute after it's past. Eugene Miya
+You only learn who has been swimming naked when the tide goes out. Jimmy Buffett
+You only live once but if you live right once is enough.
+You pay more for your schooling than your learning is worth. Clarke
+You philosophers are sages in your maxims and fools in your conduct. Franklin
+You raise your voice when you should reinforce your argument. Samuel Johnson
+You use dualism to go beyond dualism. Ram Dass
+You want it bad you will get it bad. Savage
+You will face every thought and fear that has authority over you. Carolyn Myss
+You will never get dizzy doing a good turn.
+You will never get enough approval to feel good about yourself. Lee Coit
+You will remain deaf to my explanations until you suspect yourself of falsehood.
+You won't have an economy on a dead planet. David Brower
+You're going to the experience of the transcendence of separateness. Ram Dass
+You're not really diversified unless something you own makes you uncomfortable.
+You're twice as biased as you think you are; four times if you disagree. Morgan Housel
+You're twice as gullible as you think you are. Morgan Housel
+You've got to risk it all to have it all. Ram Dass
+Young men may die but old must die.
+Young men think old men are fools; but old men know young men are fools.
+Young men's knocks old men feel. John Ray
+Young saint old devil.
+Your ability to experience joy is tied to your ability to experience pain.
+Your actions prove what you think of yourself. Will Limon
+Your attitude is more important than your aptitude. Peter Chantilis
+Your best dreams may not come true; fortunately neither will your worst dreams.
+Your best revenge is to live a happy life.
+Your biggest handicap is what you think intuitive sight is. Carolyn Myss
+Your biography becomes your biology and that is law. Carolyn Myss
+Your body is the greatest instrument you'll ever own. Mary Schmich
+Your choices are half chance. So are everybody else's. Mary Schmich
+Your circle of competence is probably 90% smaller than you think it is. Morgan Housel
+Your education begins where what is called your education is over.
+Your face is an exercise in fractal curves. John Taylor
+Your family gave you the best they knew at the time. Carolyn Myss
+Your first amendment means I can say the second amendment sucks dicks. Jim Jeffries
+Your first friend is worth the next thousand. John Taylor
+Your happiness is intertwined with your outlook on life.
+Your heart doesn't lie to your head; your head lies to your heart. Carolyn Myss
+Your imagination my dear fellow is worth more than you imagine. Louis Aragon
+Your last mistake is your best teacher.
+Your life would be very empty if you had nothing to regret.
+Your mind understands what you have been taught; your heart what is true.
+Your money burns a hole in your pocket.
+Your soul is on a mission from God to have experiences and return to God.
+Your spirit and your body thrive on living honorably. Carolyn Myss
+Your superstitions still have you by the short hairs. Carolyn Myss
+Your teachers are often people who have been right around you. Ram Dass
+Your thought is the parent which gives birth to all things. God?
+Your vision will become clear only when you look into your heart. Carl Jung
+Your winning smile is your greatest asset.
+Youth and age will never agree.
+Youth and white paper take any impression. Edgeworth
+Youth had been a habit of hers so long that she could not part with it.
+Youth is a blunder; maturity a struggle; old age a regret.
+Youth is not a time of life but a state of mind.
+Youth is the trustee of posterity.
+Youth will be served. Borrow
+Youth will have its swing. Clarke
+Youth... It is a wonder that anyone ever outgrows it.
+Zeal without knowledge is fire without light. Fuller
+Zeal when it is a virtue is a dangerous one. Fuller
+Zen is not easy. It takes effort to attain nothingness.
+Zen is the sound of the ax chopping. Chopping logic. Edward Abbey
